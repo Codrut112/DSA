@@ -1,0 +1,4 @@
+﻿  Multime.cpp
+C:\Users\TUF\Documents\SDA\LAB4SDA\Multime.cpp(79): warning C4715: 'Multime::adauga': not all control paths return a value
+C:\Users\TUF\Documents\SDA\LAB4SDA\Multime.cpp(95): warning C4715: 'Multime::sterge': not all control paths return a value
+  LAB4SDA.vcxproj -> C:\Users\TUF\Documents\SDA\LAB4SDA\x64\Debug\LAB4SDA.exe
